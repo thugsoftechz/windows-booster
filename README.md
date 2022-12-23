@@ -6,5 +6,7 @@ There are a few things to keep in mind when writing a PowerShell script to speed
 With a little bit of effort, you can write a PowerShell script that will help speed up your PC.
 # how to start it
 $ git clone https://github.com/thugsoftechz/windows-booster.git
+
 $ cd windows-booster
+
 $ ./fastup.ps1
