@@ -74,4 +74,4 @@ function Disable-Startups {
 
 #upgarde 
 
-Get-WindowsUpdate -AcceptAll -Install -AutoReboot
+Reboot-Computer
