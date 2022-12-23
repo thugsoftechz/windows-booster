@@ -75,3 +75,4 @@ function Disable-Startups {
 #upgarde 
 
 Reboot-Computer
+
